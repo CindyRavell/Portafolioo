@@ -1,0 +1,40 @@
+header {
+    color: blue;
+}
+
+
+.txt {
+    font-size: 18px;
+    color: grey;
+}
+
+#paragraph1 {
+    font: 25px sans-serif;
+    
+}
+
+#principal{
+    color:rgb(60, 187, 181); 
+    border: 2px solid rgb(121, 121, 226);
+}
+
+.centrar {
+    display:block;
+    margin:auto;
+}
+
+.secundarios{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #ffffff; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: center; 
+background: #889ccf; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 20px; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 0px 35px 0px; 
+-webkit-border-radius: 35px 0px 35px 0px; 
+border: 2px solid #5878ca;
+}
